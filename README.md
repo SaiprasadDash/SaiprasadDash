@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./files/temp.gif" alt="Wolfinj Sup Wolf Sup" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/SaiprasadDash/SaiprasadDash/main/files/temp.gif" width="200">
 </div>
 
 ###

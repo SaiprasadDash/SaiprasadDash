@@ -1,4 +1,36 @@
 <div align="center">
+  <img src="./files/sup.gif" alt="Wolfinj Sup Wolf Sup" width="200" height="200">
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sai-dash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/trafalgarLaw-3b/count.svg?"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">I'm Sai prasad Dash</h3>
+
+###
+
+<h1 align="center">🛠 Language and tools</h1>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -42,3 +74,5 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
 </div>
+
+###

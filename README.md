@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/SaiprasadDash/SaiprasadDash/main/files/Minecraft%20Sticker%20-%20Minecraft%20-%20Descobrir%20e%20Compartilhar%20GIFs.gif" width="120" alt="Minecraft wolf" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--dash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-dash/)
 [![Email](https://img.shields.io/badge/Email-dashsaiprasad831@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashsaiprasad831@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1480%2B%20rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)

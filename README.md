@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sai%20Prasad%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sai%20Prasad%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20GenAI%20and%20Agentic%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+production+apps+with+Next.js+%26+MERN;Designing+RAG+pipelines+%26+multi-agent+systems;LangChain+%7C+LangGraph+%7C+MCP;Smart+India+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+production+apps+with+Next.js+and+MERN;Designing+RAG+pipelines+and+multi-agent+systems;LangChain+%7C+LangGraph+%7C+MCP;Smart+India+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <br/>
 
